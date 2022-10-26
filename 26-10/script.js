@@ -26,7 +26,7 @@ num3++;
 num3--;
 alert(num3);
 
-/****** Task-3 *****/
+/****** Task-4 *****/
 
 let name_of_country = 'Kyrgyzstan';
 let population = 7;
@@ -47,7 +47,7 @@ let result4 = population === 7 && area === 198000 && name_of_country === 'Canada
 console.log(result4);
 // true + true + false = false;
 
-/****** Task-3 *****/
+/****** Task-5 *****/
 
 let result5 = population === 7 || area > 198000 || name_of_country === 'Canada';
 console.log(result5);
