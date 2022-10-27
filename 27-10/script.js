@@ -12,7 +12,7 @@ console.log(capital_of_KR);
 
 /******Task-2*****/
 
-let someone = prompt('Who is there', 'Name');
+let someone = prompt('Who is there?', 'Name');
 if (someone === 'admin'){
     let password = prompt('Password', 1234);
     if (password === '5555'){
