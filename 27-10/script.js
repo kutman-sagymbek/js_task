@@ -19,8 +19,10 @@ if (someone === 'admin'){
         alert('Welcome');
     } else if (password === null){
         alert('Cancelled');
-    } else {
+    } else if(password){
         alert('Incorrect password');
+    } else {
+        alert('Enter a password');
     }
 } else if(someone === null){
     alert('Cancelled');
