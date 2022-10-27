@@ -1,6 +1,6 @@
 /**** Task-1 *****/
 
-let capital_of_KR = prompt('Capital of KR?', 'Capital');
+let capital_of_KR = prompt('Do you know the capital city of KR?', 'Capital city');
 if(capital_of_KR === 'Bishkek'){
     alert('You are right');
 } else{
