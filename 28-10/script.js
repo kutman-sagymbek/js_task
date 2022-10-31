@@ -36,7 +36,7 @@ if (time >= 0 && time <= 14){
 } else if (time >= 45 && time <= 59){
     alert('forth quarter');
 } else {
-    alert('Значение не попадает в диапазон от 0 до 59');
+    alert('value is out of range 0 to 59');
 }
 
 
