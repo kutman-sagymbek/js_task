@@ -17,11 +17,9 @@ let objects = {
     c: 10
 }
 
-let sum = 0;
-for (let key in objects) {
-    sum += objects[key];
-}
-alert(sum);
+    console.log(objects.a + objects.b + objects.c );
+
+
 
     /******** Task-3 *********/
 
