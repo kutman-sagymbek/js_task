@@ -1,8 +1,5 @@
     /****** Task-1 *******/
 
-console.log(userSalaries[0].salary);
-console.log(userSalaries[1].salary);
-
 let userSalaries = {
     Ella: 2000,
     Sophie: 2700,
@@ -31,6 +28,7 @@ alert(sum);
 let data = false;
 let number = data ? 3 : 5;
 console.log(number);
+
 
 
 
