@@ -1,8 +1,8 @@
 /******* Task-1 ********/
 
-// const numbers = [1,2,3];
-// const doubleNumbers = numbers.map(item => item * 2);
-// console.log(doubleNumbers);
+const numbers = [1,2,3];
+const doubleNumbers = numbers.map(item => item * 2);
+console.log(doubleNumbers);
 
 /******* Task-2 ********/
 
@@ -19,6 +19,6 @@ console.log(result);
 
 /******* Task-3 ********/
 
-// const justNumbers = [1,2,3,4,5];
-// const reverseNumbers = justNumbers.reverse();
-// console.log(reverseNumbers);
+const justNumbers = [1,2,3,4,5];
+const reverseNumbers = justNumbers.reverse();
+console.log(reverseNumbers);
