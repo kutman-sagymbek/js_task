@@ -23,6 +23,8 @@ function hello(a) {
 }
 hello('hello');
 
+/******* Task-3 ********/
+
 function number(a){
     return a * a * a;
 }
@@ -31,7 +33,7 @@ let result = number(30);
 alert(result);
 
 
-/******* Task-1 ********/
+/******* Task-4 ********/
 
 function getName(name, myGuest){
     if(name !== undefined) {

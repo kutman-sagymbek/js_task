@@ -52,17 +52,17 @@ const message_3 = () => {
 malevich_2.onclick = message_3;
 
 
-const pikasso_2 = document.getElementById('pikasso_2');
+const piсasso_2 = document.getElementById('piсasso_2');
 const message_4 = () => {
     alert('https://www.wikiart.org');
 }
-pikasso_2.onclick = message_4;
+piсasso_2.onclick = message_4;
 
 
 
 /******* Task-3 *********/
 
-let array = ['Malevich', 'Pikasso', 'Van Gogh'];
+let array = ['Malevich', 'Piсasso', 'Van Gogh'];
 
 function new_func() {
     let united_strings = '';
