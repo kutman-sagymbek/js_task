@@ -15,11 +15,11 @@ const showMessage_2 = () => {
 malevich.onclick = showMessage_2;
 
 
-const pikasso = document.getElementById('pikasso');
+const picasso = document.getElementById('picasso');
 const showMessage_3 = () => {
     alert('The Dream is a 1932 oil on canvas painting by Pablo Picasso');
 }
-pikasso.onclick = showMessage_3;
+picasso.onclick = showMessage_3;
 
 
 const frida = document.getElementById('frida-kahlo');
